@@ -143,3 +143,26 @@ nav ul li a{
     font-weight: 500;
     font-size: 20px;
 }
+.cards{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+.card1,.card2{
+    border: 1px solid;
+    padding: 2em;
+}
+.cards .card-containt{
+    border: 1px solid;
+    padding: 2em 14em 2em 0;
+    /* display: inline; */
+}
+.cards .para5,.para6{
+    margin: 2em 0;
+}
+.btn{
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 0.6em 2.5em;
+    display: inline;
+}
