@@ -121,3 +121,25 @@ nav ul li a{
     border-radius: 28px;
     position: relative;
 }
+/* -------------section2---------------------------- */
+.section2{
+    border: 1px solid;
+    margin: 2em 0;
+    /* display: flex;
+    justify-content: center; */
+}
+.section2-content{
+    border: 1px solid;
+    text-align: center;
+}
+.section2-content h1{
+    font-size: 50px;
+    /* border: 1px solid; */
+    margin: 0.2em 8em;
+}
+.para3, .para4{
+    /* border: 1px solid; */
+    margin: 0 20em;
+    font-weight: 500;
+    font-size: 20px;
+}
